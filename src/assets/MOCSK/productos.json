@@ -1,0 +1,80 @@
+[
+
+{
+    "id":1,
+    "nombre":"Asus TUF GAMING Z590-PLUS ",
+    "descripcion":"'Tarjeta madre para juegos AMD B450 (AM4) ATX con doble M.2, micrófono con cancelación de ruido IA, HDMI, DisplayPort, USB 3.2 Gen 2 Type-A y Type-C con iluminación Aura Sync RGB.\r\n\r\nTUF Gaming B450-PLUS II destila elementos esenciales de la última plataforma AMD y los combina con características listas para jugar y durabilidad comprobada.",
+    "img":"asus_Gaming.jpg",
+    "precio":"99.94€",
+    "idCategoria":1
+},
+{
+    "id":2,
+    "nombre":"Gigabyte B460M DS3H V2 ",
+    "descripcion":"Placa madre Intel® Ultra Durable con Intel® GbE con cFosSpeed, PCIe Gen3 x4 M.2, puertos HDMI / DVI-D / D-Sub para múltiples pantallas, resistencia anti-azufre, Smart Fan 5, RGB FUSION 2.0",
+    "img":"gigabytev2.jpg",
+    "precio":"79.99€",
+    "idCategoria": 1
+    
+},
+{
+    "id":3,
+    "nombre":"AsRock H470M-HDV/M.2 ",
+    "descripcion":"En comparación con los choques tradicionales, los choques de potencia premium 50A de ASRock hacen que la corriente de saturación sea hasta tres veces mejor, proporcionando así un voltaje Vcore mejorado a la placa base.",
+    "img":"asrock-m2.jpg",
+    "precio":"69.99€",
+    "idCategoria": 1
+},
+{
+    "id":4,
+    "nombre":"Samsung Galaxy S21 Ultra 5G 128GB Plata Libre",
+    "descripcion":"Galaxy S21 evoluciona la cámara hasta el nivel más avanzado en un Galaxy. Un diseño único centrado en realzar sus lentes unido a la mejor tecnología del mercado y funciones para que sacarle el máximo partido esté al alcance de todos.\r\n\r\nSu nuevo diseño realza la cámara definiendo una identidad propia. Además, sus nuevos colores con acabado mate, no pasaran desapercibidos y se adaptan a cada personalidad. Este diseño, junto al uso de nuevos materiales como el cristal Gorilla Glass Victus, hace de Galaxy S21 el Galaxy más resistente, combinando elegancia y durabilidad.",
+    "img":"156-samsung-galaxy-s21-ultra-5g-128gb-plata-libre.jpg",
+    "precio":"1218.33€",
+    "idCategoria": 2
+}
+,{
+    "id":5,
+    "nombre":"Samsung Galaxy A52 5G 128Gb Negro Libre ",
+    "descripcion":"Pantalla 6.5” Infinity-O Display HD+ Super AMOLED 120HZ SO Android 11 Procesador SDM750G Octa-core, Up to 2.2GHz Memoria 6GB RAM + 128GB Interna 8GB RAM + 256GB Interna Tarjeta microSD: Hasta 1 TB Batería 4,500 mAh 25W Carga Rápida Dimensiones 159.9 x 75.1 x 8.4 mm 187 g Conectividad Dual SIM Wi-Fi 802.11 a/b/g/n/ac 2.4+5GHz\r\nNFC\r\nBT v5.0\r\nCámara\r\n5 MP Macro\r\n5 MP Profundidad\r\n12 MP Ultra Gran Angular 64 MP Principal\r\n32 MP Selfie\r\nBiometría\r\nReconocimiento facial Huella en pantalla\r\nCarpeta Segura, Samsung Pay, Otros IP67, Altavoces Stereo Caja Cable y cargador'",
+    "img":"1353-samsung-galaxy-a52-5g-128gb-negro-libre.jpg",
+    "precio":"69.99€",
+    "idCategoria": 2
+}
+,{
+    "id":6,
+    "nombre":"realme X3 SuperZoom 12/256GB Azul Glaciar Libre ",
+    "descripcion":"Sistema operativo realme UI  Android 10 Procesador Snapdragon 855+ Mobile Platform 2.96 Ghz 7nm FinFET ADRENO 640 GPU Pantalla Ultra fluida de 120Hz 16.6cm 6.6 Pantalla completa FHD+SIMDual Nano Sim Memoria RAM 12GB LPDDR4X ROM 256GB UFS3.0 Boost Cámara Trasera 64MP cámara cuádruple AI Super Zoom 60X",
+    "img":"1321-realme-x3-superzoom-12-256gb-azul-glaciar-libre-a7f11ae0-9dfe-4eb2-b431-f4f36ccb4316.jpg",
+    "precio":"358.99€",
+    "idCategoria": 2
+}
+,{
+    "id":7,
+    "nombre":"Lenovo IdeaPad 3 15ITL06 Intel Core i5-1135G7/16GB ",
+    "descripcion":"Justo el rendimiento que necesitas. ¿Buscas un portátil de gama básica lo suficientemente potente para que te ayude a sacar el trabajo adelante? Echa un vistazo al IdeaPad 3 (15, Intel) de 39,62 cm (15,6). Los últimos procesadores Intel® Core™ de 11.ª generación aumentan el rendimiento, te permiten realizar fácilmente varias tareas a la vez y te ofrecen una extraordinaria experiencia de entretenimiento. Los detalles de diseño bien meditados, como el obturador de seguridad físico de la cámara web, completan el producto.",
+    "img":"1942-lenovo-ideapad-3-15itl06-intel-core-i5-11.jpg",
+    "precio":"579€",
+    "idCategoria": 3
+}
+,{
+    "id":8,
+    "nombre":"Acer Chromebook 314 CB314-1H Intel Celeron N4020/4",
+    "descripcion":"Diseñada para trabajar en condiciones de luz brillante, la gran pantalla estrecha de 7.3 mm de 14 ”del Acer Chromebook 314 es ideal para una mayor productividad. Con una batería de larga duración, una CPU Intel® rápida y una conexión Wi-Fi 5 (802.11ac) rápida, pone a los usuarios en línea en un instante.",
+    "img":"acer-chromebook-314-cb314-1h-intel-celeron-n40.jpg",
+    "precio":"358.99€",
+    "idCategoria": 3
+}
+,{
+    "id":9,
+    "nombre":"HP Omen 15-EN0002NS AMD Ryzen 7 4800H/16GB/1TB SSD ",
+    "descripcion":"Tus otros portátiles se morirán de envidia\r\nNo se trata de un portátil gaming más; es el portátil gaming definitivo. Desde luego que el OMEN 15 cuenta con un potente procesador Ryzen® y gráficos NVIDIA® en un formato compacto. ¿Ya te dijimos que tiene una gran frecuencia de actualización de pantalla y una batería de gran autonomía? Vamos, que lo tiene todo, y puedes sacarle aún más partido con OMEN Command Center. Disfruta de las lógicas miradas de envidia que despertarás mientras juegas.",
+    "img":"1883-hp-omen-15-en0002ns-amd-ryzen-7-4800h-16g.jpg",
+    "precio":"358.99€",
+    "idCategoria": 3
+}
+
+
+
+
+]

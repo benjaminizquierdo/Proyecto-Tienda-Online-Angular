@@ -1,0 +1,17 @@
+[
+    {
+    "id":1,
+    "Denominacion":"Componentes",
+    "img":"partes-pc.jpg"
+    },
+    {
+        "id": 2,
+        "Denominacion":"Moviles",
+        "img":"fondo_moviles.jpg"
+    },
+    {
+        "id":3,
+        "Denominacion": "Ordenadores",
+        "img":"imagen_ordenadores.jpg"
+    }
+]

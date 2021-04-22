@@ -1,0 +1,19 @@
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+
+    <!-- Icon -->
+    <div class="fadeIn first">
+    </div>
+    <!-- Login Form -->
+    <h2>Inicia Sesion</h2>
+    <form>
+      <input type="text" id="login"  class="fadeIn second" name="login" placeholder="login" [(ngModel)]="usuario"/>
+      <input type="text" id="password" class="fadeIn third" name="login" placeholder="password" [(ngModel)]="contrasena"/>
+      <input type="submit" class="fadeIn fourth" value="Log in" (click)="getUsuario()">
+      <p>{{mensaje}}</p>
+    </form>
+
+    <!-- Remind Passowrd -->
+  </div>
+</div>

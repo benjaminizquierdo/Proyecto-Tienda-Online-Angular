@@ -1,0 +1,34 @@
+.black{
+    padding: 0px 21px;
+	text-align: center;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+    transition: all 0.2s linear;
+    
+}
+
+.black:hover{
+    transform: translatey(3px);
+    box-shadow: none;
+    animation: ani9 0.4s ease-in-out infinite alternate;
+}
+
+img{
+    width: 200px;
+    margin: 0 auto;
+}
+
+
+#items{
+    width: 100%;
+}
+
+.open{
+    width:250px;
+}
+
+.open2{
+    width: 85% !important;
+}
